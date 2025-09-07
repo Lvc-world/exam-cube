@@ -1,7 +1,5 @@
 # exam-cube
-
 一个使用vue3实现的在线学习平台-考立方
-
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
